@@ -1,17 +1,1 @@
-# Dedra Schroen: Capacitor Custodian
-
-Corporate Applications Engineer with a passion for automation and all things electrical.
-
-**Focus: Backing up Capacitors** - because a stable voltage is only as good as its weakest link.
-
-**Motto:** Reverse-engineered data-driven open architecture - because who needs barriers to innovation?
-
-**Tools of the Trade:*
-- Rust: the language that defies the darkness
-- MongoDB: where data goes to thrive
-- GraphQL: because schema is my love language
-- Node.js: the JavaScript that makes my code sing
-- SQL: where data meets its match
-- GCP: where the cloud gets cozy
-
-**Automate All the Things!**
+Welcome to my lair, where the moon dips into the horizon and the code whispers secrets. I'm Dedra Schroen, Human Optimization Executive, navigating the nocturnal realms of software. My tools of the trade: TypeScript, Flutter, MongoDB, Redis, and GraphQL. By night, I weave the silken threads of connection, Focus: bridging the chasm between firewalls, one keystroke at a time. My Motto: 'Enhanced value-added concept' - the incantation that unlocks the hidden potential of the digital realm. Let's connect the dots.
