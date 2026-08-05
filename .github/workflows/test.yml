@@ -1,0 +1,16 @@
+name: JavaScript Test
+on:
+  push:
+    main: test.yml
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: npm install
+      - name: Run tests
+        run: npm test
+      - name: Exit successfully
+        run: exit 0
